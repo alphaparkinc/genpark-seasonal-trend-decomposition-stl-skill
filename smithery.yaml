@@ -1,0 +1,6 @@
+name: genpark-seasonal-trend-decomposition-stl-skill
+version: 1.0.0
+description: Classical additive time-series decomposition separating trend, seasonal pattern, and residuals
+command: python
+args:
+  - mcp_server.py
