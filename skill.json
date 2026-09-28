@@ -1,0 +1,20 @@
+{
+  "name": "genpark-seasonal-trend-decomposition-stl-skill",
+  "version": "1.0.0",
+  "description": "Classical additive time-series decomposition separating trend, seasonal pattern, and residuals",
+  "category": "Service",
+  "dependencies": [],
+  "topics": [
+    "mcp",
+    "seasonal-decomposition",
+    "stl-decomposition",
+    "time-series",
+    "trend-extraction",
+    "seasonality",
+    "moving-average",
+    "python-standard-library",
+    "agent-skills",
+    "residual-analysis",
+    "signal-decomposition"
+  ]
+}
